@@ -4,5 +4,5 @@ This allows you to open handles to Counter-Strike: Global Offensive whilst the G
 ### Usage
 "GC Allow PID.exe" -pid to be allowed-
 
-####Example
+#### Example
 C:\Users\>"GC Allow PID.exe" 1024
